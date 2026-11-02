@@ -1,0 +1,85 @@
+{
+  "observed_at": "2026-11-03",
+  "method": "Public profile and latest 10 channel posts inspected through the existing official Telegram API session; bots were not started or paid for.",
+  "records": [
+    {
+      "username": "internshiptojobs",
+      "area": "jobs",
+      "type": "channel",
+      "members": 48465,
+      "posts_sampled": 10,
+      "latest_post": "2026-11-02T07:59:58+00:00",
+      "median_recent_views": 4804.5,
+      "visible_monetization": "Promotions and an external ad marketplace are stated in the public description.",
+      "validation_note": "Recent posts link to external employer application pages; this indicates a task path, not successful applications or revenue."
+    },
+    {
+      "username": "Remote_Software_Developer_Jobs",
+      "area": "jobs",
+      "type": "channel",
+      "members": 26843,
+      "posts_sampled": 10,
+      "latest_post": "2024-12-24T15:13:05+00:00",
+      "median_recent_views": 43139.5,
+      "visible_monetization": "No clear monetization was visible in the inspected profile and post sample.",
+      "validation_note": "Large audience and high views coexist with a stale latest-post date; size cannot substitute for current activity."
+    },
+    {
+      "username": "writingwork",
+      "area": "jobs",
+      "type": "channel",
+      "members": 2838,
+      "posts_sampled": 10,
+      "latest_post": "2026-09-16T08:13:01+00:00",
+      "median_recent_views": 1875.0,
+      "visible_monetization": "No explicit monetization was visible in the inspected profile and post sample.",
+      "validation_note": "Posts contain concrete freelance tasks and contact instructions, but authenticity and payment outcomes remain unknown."
+    },
+    {
+      "username": "ApplyMyCVBot",
+      "area": "jobs",
+      "type": "bot",
+      "visible_monetization": "No price or payment flow was visible from the public profile.",
+      "validation_note": "The profile claims CV matching, faster applications, and tracking; task completion, data handling, and conversion were not tested."
+    },
+    {
+      "username": "RoleTrackBot",
+      "area": "jobs",
+      "type": "bot",
+      "visible_monetization": "No public monetization signal was visible.",
+      "validation_note": "The name indicates application tracking, but the public profile has no description; functionality and retention are unknown."
+    },
+    {
+      "username": "AirTrackBot",
+      "area": "travel",
+      "type": "bot",
+      "visible_monetization": "No public monetization signal was visible.",
+      "validation_note": "The resolved public profile title differed from the search title; product scope and price-alert quality require in-product testing."
+    },
+    {
+      "username": "hotelbot",
+      "area": "travel",
+      "type": "bot",
+      "visible_monetization": "No price or affiliate disclosure was visible from the public profile.",
+      "validation_note": "The profile claims hotel search, comparison, and drop tracking; data coverage and referral economics are unknown."
+    },
+    {
+      "username": "trip_itinerary_bot",
+      "area": "travel",
+      "type": "bot",
+      "visible_monetization": "No public monetization signal was visible.",
+      "validation_note": "The profile describes forwarding bookings for itinerary organization; privacy, parsing quality, and retention were not tested."
+    },
+    {
+      "username": "besthoteldealz",
+      "area": "travel",
+      "type": "channel",
+      "members": 4763,
+      "posts_sampled": 10,
+      "latest_post": "2026-06-16T12:49:27+00:00",
+      "median_recent_views": 256.5,
+      "visible_monetization": "No explicit monetization was visible in the inspected profile and post sample.",
+      "validation_note": "The channel has a visible audience but sampled posts are destination content rather than directly attributable booking offers."
+    }
+  ]
+}
