@@ -13,35 +13,35 @@ This is a public research directory for independent developers, researchers, and
 
 ## How to read the table
 
-- **Validate first:** the user task and public supply are relatively clear, with a consumer value or monetization signal worth checking.
-- **Keep watching:** there are demand signals, but evidence depth, repeat use, or the business path is still weak.
-- **Do not prioritize:** trust, compliance, supply, maintenance, or platform-dependence issues make the area a poor early research target.
+- <strong>Validate first</strong>: the user task and public supply are relatively clear, with a consumer value or monetization signal worth checking.
+- <strong>Keep watching</strong>: there are demand signals, but evidence depth, repeat use, or the business path is still weak.
+- <strong>Do not prioritize</strong>: trust, compliance, supply, maintenance, or platform-dependence issues make the area a poor early research target.
 
 These are research priorities, not market-size rankings. Counts are public records found; parentheses show “channels / bots.” A record can map to more than one area when it matched multiple phrases.
 
 ## All 19 areas
 
-| Area | Sample | Public signal | Current view | Why / what is missing |
-|---|---:|---|---|---|
-| Deals and coupons | 19 (5 / 14) | Deal channels and bots exist; [@freekart_deals](https://t.me/freekart_deals) publicly discloses Amazon affiliate commissions. | **Validate first** | Clear purchase intent and a visible affiliate path, but engagement varies widely and clicks, conversion, and revenue are unknown. |
-| Jobs and career discovery | 61 (36 / 25) | [@ferm_yiyi](https://t.me/ferm_yiyi) has 6,969 members, 2,866 median views across five sampled posts, and a public recruiting contact path. | **Validate first** | The task is recurring and audience signals are relatively strong; verify whether the user can be served without employer sales. |
-| Scholarships and grants | 21 (10 / 11) | Scholarship channels and bots exist around a concrete information need. | **Validate first** | Good fit for alerts and filtering; accuracy, geography, seasonality, and payment paths are unverified. |
-| AI and software discovery | 38 (22 / 16) | AI tool, software discount, and recommendation channels or bots are visible. | **Validate first** | Fast-changing information may support purchase intent; verify transparency, update cost, and competition. |
-| Travel and transport deals | 40 (13 / 27) | Flight, hotel, itinerary, and transport alert supply is visible. | **Validate first** | Transaction value may be meaningful; geography, seasonality, sources, and referral economics need checking. |
-| Language learning and exams | 48 (4 / 44) | Many bots cover English, IELTS, language exchange, and exam preparation. | **Keep watching** | Repeat use is plausible, but public search reveals little about actual usage, outcomes, or willingness to pay. |
-| Expat life, relocation, and visas | 17 (10 / 7) | Visa, housing, digital-nomad, and expat information supply exists. | **Keep watching** | The need is concrete, but geography, accuracy, and maintenance responsibility raise the cost. |
-| Cashback and price alerts | 27 (7 / 20) | Cashback, price tracking, and shopping-assistant bots are visible. | **Keep watching** | The task is automatable, but it needs reliable price sources, notifications, and conversion evidence. |
-| Food, grocery, and restaurant deals | 34 (24 / 10) | Food, restaurant, grocery deal, and recipe channels appear. | **Keep watching** | Purchase frequency is high, but local supply and operations limit portability across locations. |
-| Local events and city discovery | 14 (6 / 8) | Event discovery and city-guide supply exists. | **Keep watching** | Local demand may be real, but each city needs its own sources and update work. |
-| Personal budgeting and expense tools | 30 (0 / 30) | The sample is almost entirely budgeting, expense, and personal-finance bots. | **Keep watching** | The bot format fits the task, but trust, privacy, and retention evidence are missing. |
-| Productivity and personal organization | 20 (0 / 20) | Productivity and study-planning bots are visible. | **Keep watching** | Easy to prototype but crowded; public data does not show durable use. |
-| Creator tools and publishing | 18 (6 / 12) | Creator tools, monetization, and newsletter-related supply exists. | **Keep watching** | The task is clear, but many visible models sell services to creators rather than serve consumers directly. |
-| Gaming | 18 (10 / 8) | Gaming alerts and game-deal channels or bots appear. | **Keep watching** | The audience may be large, but platform, copyright, regional-store, and traffic dependence are high. |
-| Books, media, and entertainment discovery | 18 (10 / 8) | Book-summary, reading-community, and media-discovery supply exists. | **Keep watching** | Channel format fits, but copyright, content production, and willingness to pay need separate checks. |
-| Family, parenting, and meal planning | 11 (4 / 7) | Parenting content and meal-planning supply exists. | **Do not prioritize** | The sample is small, trust and content responsibility are high, and repeat-use or monetization evidence is weak. |
-| Fitness and habit support | 39 (0 / 39) | Many bots cover workouts, meditation, sleep, and habit tracking. | **Do not prioritize** | Health-related responsibility and retention requirements are high; public profiles do not establish outcomes or safety. |
-| Personal safety and emergency help | 3 (0 / 3) | Only a few safety-assistance bots were found. | **Do not prioritize** | The sample is tiny and the tolerance for failure is extremely low; reliability and emergency responsibility need stronger evidence. |
-| Crypto and trading information | 18 (2 / 16) | Signal and alert channels or bots are visible. | **Do not prioritize** | Financial-loss, trust, and regulatory risks are high, while public metrics do not establish signal quality. |
+| Area | Sample (channels / bots) | Current view | Core conclusion |
+|---|---:|---|---|
+| Deals and coupons | 19 (5 / 14) | <strong>Validate first</strong> | Affiliate disclosure and purchase intent are visible; clicks, conversion, and revenue are unknown. |
+| Jobs and career discovery | 61 (36 / 25) | <strong>Validate first</strong> | Recurring task with relatively strong audience signals; verify whether users can be served without employer sales. |
+| Scholarships and grants | 21 (10 / 11) | <strong>Validate first</strong> | Clear fit for alerts and filtering; accuracy, geographic coverage, and payment paths are unverified. |
+| AI and software discovery | 38 (22 / 16) | <strong>Validate first</strong> | Purchase intent may be strong; verify recommendation transparency, update cost, and competition. |
+| Travel and transport deals | 40 (13 / 27) | <strong>Validate first</strong> | Transaction value may be high; verify sources, geographic coverage, and referral economics. |
+| Language learning and exams | 48 (4 / 44) | <strong>Keep watching</strong> | Bot supply is large; actual use, outcomes, and willingness to pay are unknown. |
+| Expat life, relocation, and visas | 17 (10 / 7) | <strong>Keep watching</strong> | Concrete need, but geographic differences and information maintenance are costly. |
+| Cashback and price alerts | 27 (7 / 20) | <strong>Keep watching</strong> | Automatable task; needs reliable price sources, notifications, and conversion evidence. |
+| Food, grocery, and restaurant deals | 34 (24 / 10) | <strong>Keep watching</strong> | Frequent purchases, but local supply limits portability. |
+| Local events and city discovery | 14 (6 / 8) | <strong>Keep watching</strong> | Local demand may be real; source coverage and update cost are unclear. |
+| Personal budgeting and expense tools | 30 (0 / 30) | <strong>Keep watching</strong> | Bot format fits; trust, privacy, and retention evidence are insufficient. |
+| Productivity and personal organization | 20 (0 / 20) | <strong>Keep watching</strong> | Easy to prototype, but crowded and long-term use is unknown. |
+| Creator tools and publishing | 18 (6 / 12) | <strong>Keep watching</strong> | Clear task, but many visible models sell services to creators rather than serve consumers. |
+| Gaming | 18 (10 / 8) | <strong>Keep watching</strong> | Audience may be large; platform, copyright, and regional dependence are high. |
+| Books, media, and entertainment discovery | 18 (10 / 8) | <strong>Keep watching</strong> | Channel format fits; copyright, production, and willingness to pay need checking. |
+| Family, parenting, and meal planning | 11 (4 / 7) | <strong>Do not prioritize</strong> | Small sample and high responsibility; repeat use and monetization evidence are weak. |
+| Fitness and habit support | 39 (0 / 39) | <strong>Do not prioritize</strong> | Health responsibility is high; outcomes, activity, and safety boundaries are unknown. |
+| Personal safety and emergency help | 3 (0 / 3) | <strong>Do not prioritize</strong> | Tiny sample and very low tolerance for failure; reliability evidence is insufficient. |
+| Crypto and trading information | 18 (2 / 16) | <strong>Do not prioritize</strong> | Financial and regulatory risks are high; public metrics cannot prove signal quality. |
 
 ## Representative public evidence
 
