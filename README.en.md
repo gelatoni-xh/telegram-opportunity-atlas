@@ -59,3 +59,9 @@ Local validation:
 python3 scripts/validate_snapshot.py data/snapshot-2026-11-03.jsonl \
   --derived data/catalog-2026-11-03.jsonl
 ```
+
+Expected output for this snapshot:
+
+```text
+OK: 492 records (169 channels, 323 bots)
+```

@@ -59,3 +59,9 @@ python3 scripts/search_public.py "food deals" "local events" --output data/new-s
 python3 scripts/validate_snapshot.py data/snapshot-2026-11-03.jsonl \
   --derived data/catalog-2026-11-03.jsonl
 ```
+
+此快照的预期输出：
+
+```text
+OK: 492 records (169 channels, 323 bots)
+```
