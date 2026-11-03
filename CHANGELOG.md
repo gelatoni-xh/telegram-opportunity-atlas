@@ -82,3 +82,10 @@ Validated public evidence for nine representative jobs and travel projects witho
 - 原始数据、采集日期、研究判断均未改变；本次没有重新检查项目当前状态。
 
 Added findings and the 19-area overview to both homepages, plus bilingual browsing pages and a CSV export derived from the existing catalog. Raw data, collection dates, and research priorities are unchanged; current project status was not rechecked.
+
+## 2026-11-04 · 使用指南入口 / Task-based entry points
+
+- 将中英文首页的“三个发现”改为“如何使用这份图谱”，按找方向、查案例、比较方向和扩展调研提供入口。
+- 增加调研记录的使用顺序，合并重复的快速入口。
+
+Replaced the homepage findings with task-based guidance for selecting areas, browsing examples, comparing candidates, and extending research in both languages. Added a note-taking sequence and removed the duplicate quick-entry list.

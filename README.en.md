@@ -6,13 +6,16 @@ Compare existing supply, observable business signals, and open questions across 
 
 **[Browse public samples](catalog/README.en.md) · [Download CSV](data/catalog-2026-11-03.csv) · [Compare five areas](reports/2026-11-five-area-comparison.en.md)**
 
-## Three findings to start with
+## How to use this atlas
 
-- **Member counts alone cannot establish activity.** The 2026-11-03 record for deals channel `@freekart_deals` shows 68,090 members and a median of 63 views across five sampled posts. This case cannot be generalized to all channels.
-- **Job supply exists, but the payer needs checking.** Public examples show recruiting, employer relationships, or advertising paths; they do not establish job seekers' willingness to pay.
-- **Travel alert bots already exist.** Sources, geographic coverage, and alert quality need verification; public profiles do not establish usage or conversion.
+| What you want to do | Where to start |
+|---|---|
+| Find a product area to research | Browse the **19-area overview below**. Compare user tasks, existing supply, and open questions, then select areas that fit your experience and resources. |
+| Find existing channels and bots in an area | Open the [catalog by area](catalog/README.en.md) for names, public links, and matched search phrases. [Download the CSV](data/catalog-2026-11-03.csv) to apply your own filters. |
+| Compare candidate areas in depth | Read the [five-area comparison](reports/2026-11-five-area-comparison.en.md), then the [jobs and travel validation](reports/2026-11-jobs-travel-validation.en.md), for cases, comparison criteria, and questions that still need checking. |
+| Extend your own research | Refer to the [coverage matrix and search phrases](methodology/coverage-matrix.en.md) and [evidence and field guide](methodology/evidence-and-data.en.md), then run a search using the command below. |
 
-[See cases, sampling details, and counterexamples](reports/2026-11-five-area-comparison.en.md). Data was collected on **2026-11-03**, not in real time; this update does not collect new data.
+For each area you select, organize your notes around: the user's task → existing supply → public evidence → questions to validate next.
 
 ## All 19 areas at a glance
 
@@ -43,16 +46,6 @@ These are research priorities. **Validate first does not mean proven profitable.
 [Read the full research and evidence limitations](reports/2026-11-consumer-opportunity-scan.en.md). The browsing catalog maps search phrases to areas and may include false positives and stale projects. Inclusion is not endorsement.
 
 If the atlas helps your research, **Star it for easy reference**. See the [changelog](CHANGELOG.md) for changes and the [contribution guide](CONTRIBUTING.md) to add inspectable public evidence.
-
-## Quick entry points
-
-If this is your first visit, read these in order:
-
-1. [Consumer opportunity scan](reports/2026-11-consumer-opportunity-scan.en.md): see the consistent judgment for all 19 areas, including why some are prioritized, deferred, or not recommended.
-2. [Five-area comparison](reports/2026-11-five-area-comparison.en.md): compare five candidates using common metrics and counterexamples.
-3. [Jobs and travel validation](reports/2026-11-jobs-travel-validation.en.md): see the public supply found and the key questions that remain unverified.
-4. [Coverage matrix](methodology/coverage-matrix.en.md): see the search scope and phrases.
-5. [Evidence and data guide](methodology/evidence-and-data.en.md): understand the snapshot fields, evidence standards, and limitations.
 
 ## Snapshot scope
 
