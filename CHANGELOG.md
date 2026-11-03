@@ -1,5 +1,10 @@
 # 变更记录 / Changelog
 
+## 2026-11-03 · README 校验示例 / validation output
+
+- Documented the verified success output for the offline snapshot validator in both README versions.
+- 在中英文 README 中补充了离线快照校验器已验证的成功输出。
+
 ## 2026-11-03 · v0.2
 
 - 扩展跨领域公开搜索，覆盖 19 个消费者领域和 68 个搜索词。
