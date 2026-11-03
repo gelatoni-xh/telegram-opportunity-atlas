@@ -74,3 +74,11 @@ Added a dated jobs and travel validation report based on 10 task intents. It pre
 - 增加带日期的核验数据文件，并在中英文报告中记录规模、近期活跃度、任务闭环和变现线索之间的区别。
 
 Validated public evidence for nine representative jobs and travel projects without starting bots or making paid actions. Added dated machine-readable evidence and documented the distinction between scale, recent activity, task completion, and monetization signals in both reports.
+
+## 2026-11-04 · 首页与浏览入口 / Discovery and browsing
+
+- 中英文首页前移三项研究发现与 19 个领域总览，增加收藏和贡献入口。
+- 从现有 2026-11-03 标注目录生成中英文领域浏览页和 CSV 下载。
+- 原始数据、采集日期、研究判断均未改变；本次没有重新检查项目当前状态。
+
+Added findings and the 19-area overview to both homepages, plus bilingual browsing pages and a CSV export derived from the existing catalog. Raw data, collection dates, and research priorities are unchanged; current project status was not rechecked.

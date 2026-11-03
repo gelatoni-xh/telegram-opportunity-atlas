@@ -1,12 +1,48 @@
-# Telegram Opportunity Atlas
+# Telegram Opportunity Atlas: 19 Product Areas for Independent Developers
 
 [![中文](https://img.shields.io/badge/阅读中文-README.md-1677ff?style=flat-square)](README.md) [![English](https://img.shields.io/badge/Read%20English-README.en.md-555?style=flat-square)](README.en.md) [![Data date](https://img.shields.io/badge/data%20date-2026--11--03-0a7?style=flat-square)](reports/2026-11-consumer-opportunity-scan.en.md) [![License](https://img.shields.io/badge/code-MIT-555?style=flat-square)](LICENSE)
 
-This repository uses public Telegram channel and bot examples to organize consumer tasks, existing supply, and observable business signals. It helps independent developers and researchers decide which areas deserve further validation.
+Compare existing supply, observable business signals, and open questions across **19 consumer areas**, using **492 public channel and bot records from 68 search phrases**. A starting point for product discovery and competitor research.
 
-It is not a complete directory of Telegram projects, and it does not treat subscriber counts as market size or revenue.
+**[Browse public samples](catalog/README.en.md) · [Download CSV](data/catalog-2026-11-03.csv) · [Compare five areas](reports/2026-11-five-area-comparison.en.md)**
 
-License: [LICENSE](LICENSE). Code is MIT; reports, methodology documents, and data are CC BY 4.0.
+## Three findings to start with
+
+- **Member counts alone cannot establish activity.** The 2026-11-03 record for deals channel `@freekart_deals` shows 68,090 members and a median of 63 views across five sampled posts. This case cannot be generalized to all channels.
+- **Job supply exists, but the payer needs checking.** Public examples show recruiting, employer relationships, or advertising paths; they do not establish job seekers' willingness to pay.
+- **Travel alert bots already exist.** Sources, geographic coverage, and alert quality need verification; public profiles do not establish usage or conversion.
+
+[See cases, sampling details, and counterexamples](reports/2026-11-five-area-comparison.en.md). Data was collected on **2026-11-03**, not in real time; this update does not collect new data.
+
+## All 19 areas at a glance
+
+These are research priorities. **Validate first does not mean proven profitable.** Samples were discovered by keywords and do not measure market size. A record may belong to multiple areas; parentheses show channels / bots.
+
+| Area | Sample (channels / bots) | Current view | Core conclusion |
+|---|---:|---|---|
+| Deals and coupons | 19 (5 / 14) | <strong>Validate first</strong> | Affiliate disclosure and purchase intent are visible; clicks, conversion, and revenue are unknown. |
+| Jobs and career discovery | 61 (36 / 25) | <strong>Validate first</strong> | Recurring task with relatively strong audience signals; verify whether users can be served without employer sales. |
+| Scholarships and grants | 21 (10 / 11) | <strong>Validate first</strong> | Clear fit for alerts and filtering; accuracy, geographic coverage, and payment paths are unverified. |
+| AI and software discovery | 38 (22 / 16) | <strong>Validate first</strong> | Purchase intent may be strong; verify recommendation transparency, update cost, and competition. |
+| Travel and transport deals | 40 (13 / 27) | <strong>Validate first</strong> | Transaction value may be high; verify sources, geographic coverage, and referral economics. |
+| Language learning and exams | 48 (4 / 44) | <strong>Keep watching</strong> | Bot supply is large; actual use, outcomes, and willingness to pay are unknown. |
+| Expat life, relocation, and visas | 17 (10 / 7) | <strong>Keep watching</strong> | Concrete need, but geographic differences and information maintenance are costly. |
+| Cashback and price alerts | 27 (7 / 20) | <strong>Keep watching</strong> | Automatable task; needs reliable price sources, notifications, and conversion evidence. |
+| Food, grocery, and restaurant deals | 34 (24 / 10) | <strong>Keep watching</strong> | Frequent purchases, but local supply limits portability. |
+| Local events and city discovery | 14 (6 / 8) | <strong>Keep watching</strong> | Local demand may be real; source coverage and update cost are unclear. |
+| Personal budgeting and expense tools | 30 (0 / 30) | <strong>Keep watching</strong> | Bot format fits; trust, privacy, and retention evidence are insufficient. |
+| Productivity and personal organization | 20 (0 / 20) | <strong>Keep watching</strong> | Easy to prototype, but crowded and long-term use is unknown. |
+| Creator tools and publishing | 18 (6 / 12) | <strong>Keep watching</strong> | Clear task, but many visible models sell services to creators rather than serve consumers. |
+| Gaming | 18 (10 / 8) | <strong>Keep watching</strong> | Audience may be large; platform, copyright, and regional dependence are high. |
+| Books, media, and entertainment discovery | 18 (10 / 8) | <strong>Keep watching</strong> | Channel format fits; copyright, production, and willingness to pay need checking. |
+| Family, parenting, and meal planning | 11 (4 / 7) | <strong>Do not prioritize</strong> | Small sample and high responsibility; repeat use and monetization evidence are weak. |
+| Fitness and habit support | 39 (0 / 39) | <strong>Do not prioritize</strong> | Health responsibility is high; outcomes, activity, and safety boundaries are unknown. |
+| Personal safety and emergency help | 3 (0 / 3) | <strong>Do not prioritize</strong> | Tiny sample and very low tolerance for failure; reliability evidence is insufficient. |
+| Crypto and trading information | 18 (2 / 16) | <strong>Do not prioritize</strong> | Financial and regulatory risks are high; public metrics cannot prove signal quality. |
+
+[Read the full research and evidence limitations](reports/2026-11-consumer-opportunity-scan.en.md). The browsing catalog maps search phrases to areas and may include false positives and stale projects. Inclusion is not endorsement.
+
+If the atlas helps your research, **Star it for easy reference**. See the [changelog](CHANGELOG.md) for changes and the [contribution guide](CONTRIBUTING.md) to add inspectable public evidence.
 
 ## Quick entry points
 
@@ -17,15 +53,6 @@ If this is your first visit, read these in order:
 3. [Jobs and travel validation](reports/2026-11-jobs-travel-validation.en.md): see the public supply found and the key questions that remain unverified.
 4. [Coverage matrix](methodology/coverage-matrix.en.md): see the search scope and phrases.
 5. [Evidence and data guide](methodology/evidence-and-data.en.md): understand the snapshot fields, evidence standards, and limitations.
-
-## What the report provides
-
-- Deal channels publicly disclose affiliate marketing, but the sample does not reveal clicks, conversions, or earnings.
-- Job channels show visible engagement, but the clearest example focuses on recruiting and employer relationships. It is not direct evidence for a consumer product model.
-- Every area has a public sample count, visible signal, current research priority, and key unknowns.
-- “Do not prioritize” means it is not an early research target in this pass, not that the area has no market.
-
-See the [research report](reports/2026-11-consumer-opportunity-scan.en.md) for the full reasoning and examples. This repository does not contain a specific team’s product roadmap or internal opportunity decision.
 
 ## Snapshot scope
 
@@ -65,3 +92,7 @@ Expected output for this snapshot:
 ```text
 OK: 492 records (169 channels, 323 bots)
 ```
+
+## License
+
+Code is MIT; reports, methodology, and data are CC BY 4.0. See [LICENSE](LICENSE).
