@@ -4,7 +4,7 @@
 
 基于 **492 条公开频道与 Bot 记录、68 个搜索词**，比较 19 个消费者领域的现有供给、可观察的商业信号和待验证问题，帮助独立开发者开展选题与竞品调研。
 
-**[浏览公开样本](catalog/README.zh.md) · [下载 CSV](data/catalog-2026-11-03.csv) · [查看五个方向比较](reports/2026-11-five-area-comparison.zh.md)**
+**[浏览公开样本](catalog/README.zh.md) · [下载 CSV](data/catalog-2026-11-03.csv) · [比较五个产品领域](reports/2026-11-five-area-comparison.zh.md) · [阅读频道内容选品指南](reports/2026-11-channel-content-selection-observation.zh.md)**
 
 ## 如何使用这份图谱
 

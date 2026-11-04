@@ -4,7 +4,7 @@
 
 Compare existing supply, observable business signals, and open questions across **19 consumer areas**, using **492 public channel and bot records from 68 search phrases**. A starting point for product discovery and competitor research.
 
-**[Browse public samples](catalog/README.en.md) · [Download CSV](data/catalog-2026-11-03.csv) · [Compare five areas](reports/2026-11-five-area-comparison.en.md)**
+**[Browse public samples](catalog/README.en.md) · [Download CSV](data/catalog-2026-11-03.csv) · [Compare five product areas](reports/2026-11-five-area-comparison.en.md) · [Read the channel content selection guide](reports/2026-11-channel-content-selection-observation.en.md)**
 
 ## How to use this atlas
 

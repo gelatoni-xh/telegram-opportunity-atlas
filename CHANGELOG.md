@@ -1,11 +1,19 @@
 # 变更记录 / Changelog
 
+## 2026-11-04 · 频道内容选品观察 / Channel content selection
+
+- 新增中英文频道内容选品指南，说明频道与 Bot 的内容目标差异、常见读者价值和六类内容方向的供给与维护特点。
+- 增加来源使用、摘要、商业披露和公开频道指标的读者指南；首页提供独立入口。
+- 研究范围为有限公开页面观察，不推断频道商业表现或全平台偏好。
+
+Added a bilingual channel content selection guide covering how channels differ from Bots, common reader-value models, and the supply and maintenance traits of six content categories. It includes guidance on source use, summaries, commercial disclosure, and public channel metrics, with a dedicated homepage entry. The guide reflects a limited sample of public pages and does not infer commercial performance or platform-wide preferences.
+
 ## 2026-11-04 · 中文 Markdown 强调校验 / Chinese Markdown emphasis checks
 
-- 将旧中文报告和方法说明中的标签改为纯文本，避免渲染器把 `**` 标记原样显示。
+- 将旧中文报告、方法说明及本次频道观察报告中的标签改为纯文本，避免渲染器把 `**` 标记原样显示。
 - 增加中文 Markdown 强调格式校验脚本、贡献规则和 GitHub Actions 检查，拒绝强调符内部空格及未配对标记。
 
-Changed labels in existing Chinese reports and methodology to plain text to avoid literal `**` rendering. Added a validator, contribution guidance, and a GitHub Actions check for internal whitespace and unpaired emphasis delimiters.
+Changed labels in existing Chinese reports, methodology, and the new channel report to plain text to avoid literal `**` rendering. Added a validator, contribution guidance, and a GitHub Actions check for internal whitespace and unpaired emphasis delimiters.
 
 ## 2026-11-03 · README 校验示例 / validation output
 
