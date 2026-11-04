@@ -27,3 +27,9 @@ Submit public channel and bot information only. Do not submit numeric Telegram I
 中文和英文文档分开保存。修改结论、数字、范围或方法时，请同步更新对应的中英文文件，并在 `CHANGELOG.md` 记录影响范围。
 
 Chinese and English documents are stored separately. Update both language versions when changing conclusions, figures, scope, or methods, and record the impact in `CHANGELOG.md`.
+
+## Markdown 格式 / Markdown formatting
+
+中文 Markdown 的强调标记内不要在 `**` 后或闭合 `**` 前留空格；这会导致部分渲染器把标记原样显示。元数据标签（如“观察日期：内容”）直接使用纯文本，不加粗标签。编辑后运行 `python3 scripts/validate_markdown.py`。
+
+Do not put whitespace immediately inside `**` delimiters in Chinese Markdown; some renderers display the markers literally. Keep metadata labels such as `Observation date:` as plain text. Run `python3 scripts/validate_markdown.py` after editing.

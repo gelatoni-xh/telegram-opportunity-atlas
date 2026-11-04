@@ -1,5 +1,12 @@
 # 变更记录 / Changelog
 
+## 2026-11-04 · 中文 Markdown 强调校验 / Chinese Markdown emphasis checks
+
+- 将旧中文报告和方法说明中的标签改为纯文本，避免渲染器把 `**` 标记原样显示。
+- 增加中文 Markdown 强调格式校验脚本、贡献规则和 GitHub Actions 检查，拒绝强调符内部空格及未配对标记。
+
+Changed labels in existing Chinese reports and methodology to plain text to avoid literal `**` rendering. Added a validator, contribution guidance, and a GitHub Actions check for internal whitespace and unpaired emphasis delimiters.
+
 ## 2026-11-03 · README 校验示例 / validation output
 
 - Documented the verified success output for the offline snapshot validator in both README versions.

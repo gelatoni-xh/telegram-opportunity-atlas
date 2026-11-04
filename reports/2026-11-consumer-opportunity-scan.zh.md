@@ -1,7 +1,8 @@
 # Telegram 消费者机会图谱：跨领域初筛
 
-**数据日期：**2026-11-03  
-**覆盖范围：**19 个消费者领域、68 个搜索词、492 条公开频道和 bot 记录
+数据日期：2026-11-03
+
+覆盖范围：19 个消费者领域、68 个搜索词、492 条公开频道和 bot 记录
 
 English version: [Telegram Consumer Opportunity Atlas: Consumer Opportunity Scan](2026-11-consumer-opportunity-scan.en.md)
 
