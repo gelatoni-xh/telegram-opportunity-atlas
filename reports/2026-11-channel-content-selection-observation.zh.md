@@ -37,6 +37,24 @@ English version: [Telegram Channel Content Selection Guide](2026-11-channel-cont
 
 这些案例用于说明内容形态，不代表其运营方式、受众构成或商业表现，也不能用来证明某个题材必然更受欢迎。频道规模、语言、地区、帖子年龄和发布时间都会影响可见浏览数。
 
+### 公开频道数值快照
+
+下表记录 2026-11-04 UTC 公开预览页可见数据。阅读量为各频道最近 10 条可读帖的中位数，订阅数为页面当时显示值；数据用于展示样本规模与活跃情况，不是频道排名。频道汇总快照及完整限制见[数据文件](../data/channel-content-selection-sample-2026-11-04.json)。
+
+| 内容方向 | 代表频道 | 订阅数快照 | 最近 10 帖浏览中位数 | 10 帖覆盖时间 |
+|---|---|---:|---:|---|
+| 垂直安全资讯 | [The Hacker News](https://t.me/s/TheHackerNews) | 约 165,000 | 约 3,300 | 数小时至约 1 天 |
+| 书籍/文化发现 | [Book Growth](https://t.me/s/BookGrowth922axyn178) | 约 1,300 | 约 2,300 | 约 3 天 |
+| 旅行优惠 | [Flight Deals & Error Fares](https://t.me/s/FlightDeals215axyn178) | 约 1,340 | 约 2,300 | 约 3 天 |
+| 游戏资讯/优惠 | [Game Deals](https://t.me/s/GameDeals922axyn178) | 约 1,360 | 约 2,300 | 约 2 天 |
+| 职位精选 | [依依海外求职招聘](https://t.me/s/ferm_yiyi) | 约 6,970 | 约 2,200 | 约 23 天 |
+| 综合购物优惠 | [Shopping Offers & Coupons](https://t.me/s/freekart_deals) | 约 68,100 | 约 170 | 数小时 |
+| 综合优惠聚合 | [KhufiyaDeals](https://t.me/s/KhufiyaDeals) | 约 52,800 | 约 5 | 新帖很快，未满数小时 |
+
+这组数字说明为什么不能只看订阅量：购物频道样本中，约 68,100 订阅对应最近 10 帖约 170 的浏览中位数；另一个约 52,800 订阅的优惠频道，新帖在抓取时只有个位数浏览，但帖子非常新，不能据此判定长期阅读表现。职位样本覆盖约 23 天，其他样本跨度大多是数小时至三天；阅读量尚未按帖子年龄、语言、地区、转发或流量来源校正，因此不能横向断言哪类内容更受欢迎。
+
+仓库中另有[2026-11-03 职位与旅行代表频道核验记录](../data/representative-validation-2026-11-03.json)，可作为补充案例：[internshiptojobs](https://t.me/internshiptojobs) 页面显示 48,465 名订阅者，最近 10 帖浏览中位数为 4,804.5，样本最新帖为 2026-11-02；[Remote Software Developer Jobs](https://t.me/Remote_Software_Developer_Jobs) 显示 26,843 名订阅者、最近 10 帖浏览中位数为 43,139.5，但最新帖日期是 2024-12-24；[besthoteldealz](https://t.me/besthoteldealz) 显示 4,763 名订阅者、最近 10 帖浏览中位数为 256.5，最新帖日期为 2026-06-16。这些案例再次表明，累计受众和历史浏览量必须与近期活跃度一起阅读；它们不证明申请、预订或收入。
+
 ## 性价比怎么判断
 
 比较一个选题时，同时回答四个问题：

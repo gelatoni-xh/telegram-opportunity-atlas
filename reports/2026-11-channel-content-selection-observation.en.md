@@ -37,6 +37,24 @@ Public-channel examples reviewed include [The Hacker News](https://t.me/s/TheHac
 
 These examples illustrate content formats. They do not establish how the channels are operated, who their audiences are, or how they perform commercially. Channel size, language, geography, post age, and publication time all affect visible view counts.
 
+### Public channel snapshot
+
+The table records values visible on public previews on 2026-11-04 UTC. Views are the median across each channel's latest 10 readable posts; subscribers are the counts shown on the page at capture. These figures show sample scale and activity, not a ranking. The channel summary snapshot and full limitations are available in the [data file](../data/channel-content-selection-sample-2026-11-04.json).
+
+| Content category | Example channel | Subscriber snapshot | Median views across latest 10 posts | Time span of 10 posts |
+|---|---|---:|---:|---|
+| Vertical security updates | [The Hacker News](https://t.me/s/TheHackerNews) | ~165,000 | ~3,300 | Several hours to about 1 day |
+| Book/culture discovery | [Book Growth](https://t.me/s/BookGrowth922axyn178) | ~1,300 | ~2,300 | About 3 days |
+| Travel deals | [Flight Deals & Error Fares](https://t.me/s/FlightDeals215axyn178) | ~1,340 | ~2,300 | About 3 days |
+| Gaming news/deals | [Game Deals](https://t.me/s/GameDeals922axyn178) | ~1,360 | ~2,300 | About 2 days |
+| Job picks | [Yiyi Overseas Jobs](https://t.me/s/ferm_yiyi) | ~6,970 | ~2,200 | About 23 days |
+| General shopping offers | [Shopping Offers & Coupons](https://t.me/s/freekart_deals) | ~68,100 | ~170 | Several hours |
+| General deal aggregation | [KhufiyaDeals](https://t.me/s/KhufiyaDeals) | ~52,800 | ~5 | New posts were less than a few hours old |
+
+These figures show why subscriber count alone is insufficient: the sampled shopping channel had about 68,100 subscribers but a median of about 170 views across its latest 10 posts. Another deal channel with about 52,800 subscribers had only single-digit views on very new posts at capture, which cannot establish its eventual reach. The job sample spans about 23 days; most others span several hours to three days. Views are not normalized for post age, language, geography, forwards, or traffic source, so the table cannot establish which category is more popular.
+
+The repository also contains a [2026-11-03 validation record for representative job and travel channels](../data/representative-validation-2026-11-03.json). [internshiptojobs](https://t.me/internshiptojobs) showed 48,465 subscribers and a median of 4,804.5 views across its latest 10 posts; its latest sampled post was dated 2026-11-02. [Remote Software Developer Jobs](https://t.me/Remote_Software_Developer_Jobs) showed 26,843 subscribers and a median of 43,139.5 views, but its latest post was dated 2024-12-24. [besthoteldealz](https://t.me/besthoteldealz) showed 4,763 subscribers and a median of 256.5 views; its latest post was dated 2026-06-16. These examples show why audience size and historical views must be read alongside recent activity. They do not establish applications, bookings, or revenue.
+
 ## Assessing value for effort
 
 For each content idea, answer four questions:

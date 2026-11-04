@@ -3,10 +3,11 @@
 ## 2026-11-04 · 频道内容选品观察 / Channel content selection
 
 - 新增中英文频道内容选品指南，说明频道与 Bot 的内容目标差异、常见读者价值和六类内容方向的供给与维护特点。
-- 增加来源使用、摘要、商业披露和公开频道指标的读者指南；首页提供独立入口。
+- 增加 2026-11-04 公开频道订阅数与最近 10 帖阅读中位数汇总，以及既有职位/旅行样本的链接；首页提供独立入口。
+- 补充来源使用、摘要、商业披露和公开频道指标的读者指南。
 - 研究范围为有限公开页面观察，不推断频道商业表现或全平台偏好。
 
-Added a bilingual channel content selection guide covering how channels differ from Bots, common reader-value models, and the supply and maintenance traits of six content categories. It includes guidance on source use, summaries, commercial disclosure, and public channel metrics, with a dedicated homepage entry. The guide reflects a limited sample of public pages and does not infer commercial performance or platform-wide preferences.
+Added a bilingual channel content selection guide covering how channels differ from Bots, common reader-value models, and the supply and maintenance traits of six content categories. It now includes a dated summary of public subscriber counts and median views across the latest 10 posts, links to existing job/travel evidence, and guidance on sources, summaries, commercial disclosure, and metrics. The guide reflects a limited sample of public pages and does not infer commercial performance or platform-wide preferences.
 
 ## 2026-11-04 · 中文 Markdown 强调校验 / Chinese Markdown emphasis checks
 

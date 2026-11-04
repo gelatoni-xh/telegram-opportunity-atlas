@@ -1,0 +1,77 @@
+{
+  "observed_at": "2026-11-04T14:21:00Z",
+  "method": "Aggregate snapshot transcribed from the public-preview sample used in the channel content selection review. Subscriber counts and view medians are rounded estimates from each page; the underlying per-post values were not retained.",
+  "posts_sampled_per_channel": 10,
+  "limitations": [
+    "The sample is not a random or representative sample of Telegram channels.",
+    "Views are cumulative and were not normalized for post age, language, geography, channel size, forwards, or traffic source.",
+    "Post-age spans differ substantially between channels; cross-category ranking is not supported.",
+    "Subscriber counts are page snapshots and do not establish active readers, retention, clicks, or revenue."
+  ],
+  "channels": [
+    {
+      "category": "vertical security updates",
+      "title": "The Hacker News",
+      "username": "TheHackerNews",
+      "url": "https://t.me/s/TheHackerNews",
+      "subscribers_approx": 165000,
+      "median_views_latest_10_approx": 3300,
+      "latest_10_span": "several hours to about 1 day"
+    },
+    {
+      "category": "book and culture discovery",
+      "title": "Book Growth",
+      "username": "BookGrowth922axyn178",
+      "url": "https://t.me/s/BookGrowth922axyn178",
+      "subscribers_approx": 1300,
+      "median_views_latest_10_approx": 2300,
+      "latest_10_span": "about 3 days"
+    },
+    {
+      "category": "travel deals",
+      "title": "Flight Deals & Error Fares",
+      "username": "FlightDeals215axyn178",
+      "url": "https://t.me/s/FlightDeals215axyn178",
+      "subscribers_approx": 1340,
+      "median_views_latest_10_approx": 2300,
+      "latest_10_span": "about 3 days"
+    },
+    {
+      "category": "gaming news and deals",
+      "title": "Game Deals",
+      "username": "GameDeals922axyn178",
+      "url": "https://t.me/s/GameDeals922axyn178",
+      "subscribers_approx": 1360,
+      "median_views_latest_10_approx": 2300,
+      "latest_10_span": "about 2 days"
+    },
+    {
+      "category": "job picks",
+      "title": "Yiyi Overseas Jobs",
+      "username": "ferm_yiyi",
+      "url": "https://t.me/s/ferm_yiyi",
+      "subscribers_approx": 6970,
+      "median_views_latest_10_approx": 2200,
+      "latest_10_span": "about 23 days"
+    },
+    {
+      "category": "general shopping offers",
+      "title": "Shopping Offers & Coupons",
+      "username": "freekart_deals",
+      "url": "https://t.me/s/freekart_deals",
+      "subscribers_approx": 68100,
+      "median_views_latest_10_approx": 170,
+      "latest_10_span": "several hours"
+    },
+    {
+      "category": "general deal aggregation",
+      "title": "KhufiyaDeals",
+      "username": "KhufiyaDeals",
+      "url": "https://t.me/s/KhufiyaDeals",
+      "subscribers_approx": 52800,
+      "median_views_latest_10_approx": 5,
+      "latest_10_span": "new posts were less than a few hours old",
+      "note": "Very young posts make the view median especially incomplete."
+    }
+  ]
+}
