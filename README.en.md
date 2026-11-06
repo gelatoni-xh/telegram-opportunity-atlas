@@ -1,6 +1,6 @@
 # Telegram Opportunity Atlas: 19 Product Areas for Independent Developers
 
-[![中文](https://img.shields.io/badge/阅读中文-README.md-1677ff?style=flat-square)](README.md) [![English](https://img.shields.io/badge/Read%20English-README.en.md-555?style=flat-square)](README.en.md) [![Data date](https://img.shields.io/badge/data%20date-2026--11--03-0a7?style=flat-square)](reports/2026-11-consumer-opportunity-scan.en.md) [![License](https://img.shields.io/badge/code-MIT-555?style=flat-square)](LICENSE)
+[![中文](https://img.shields.io/badge/阅读中文-README.md-555?style=flat-square)](README.md) [![English](https://img.shields.io/badge/Read%20English-README.en.md-1677ff?style=flat-square)](README.en.md) [![Data date](https://img.shields.io/badge/data%20date-2026--11--03-0a7?style=flat-square)](reports/2026-11-consumer-opportunity-scan.en.md) [![License](https://img.shields.io/badge/code-MIT-555?style=flat-square)](LICENSE)
 
 Compare existing supply, observable business signals, and open questions across **19 consumer areas**, using **492 public channel and bot records from 68 search phrases**. A starting point for product discovery and competitor research.
 
